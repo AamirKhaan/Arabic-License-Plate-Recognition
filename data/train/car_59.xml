@@ -1,0 +1,26 @@
+<annotation>
+	<folder>numberplate</folder>
+	<filename>car_59.jpg</filename>
+	<path>F:\Machine_Learning_Projects\workspace\Arabic-License-Plate-Recognition\data\numberplate\car_59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>598</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>numberplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>362</ymin>
+			<xmax>374</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>
