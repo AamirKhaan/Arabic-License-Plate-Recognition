@@ -1,3 +1,15 @@
 # Arabic-License-Plate-Recognition
 
-# 1. Numberplate Detection
+The python ML notebooks for detecting and extracting Saudi Car License Plates.
+
+# 1. Number Plate Detection
+
+Detecting the ROI (Region of Intrest)
+
+![ROI](https://github.com/AamirKhaan/Arabic-License-Plate-Recognition/blob/main/codes/workspace/images/detected/Dcar_364.jpg)
+
+# 2. Number Plate Extraction
+
+Isolating and Extracting the Number Plate
+
+![Number Plate](https://github.com/AamirKhaan/Arabic-License-Plate-Recognition/blob/main/codes/workspace/images/plates/P_60.jpg)
