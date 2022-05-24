@@ -1,0 +1,15 @@
+
+[tensorflow]
+tensorflow<2.10.0,>=2.9.0
+
+[tensorflow-aarch64]
+tensorflow-aarch64<2.10.0,>=2.9.0
+
+[tensorflow-cpu]
+tensorflow-cpu<2.10.0,>=2.9.0
+
+[tensorflow-gpu]
+tensorflow-gpu<2.10.0,>=2.9.0
+
+[tensorflow-rocm]
+tensorflow-rocm<2.10.0,>=2.9.0
