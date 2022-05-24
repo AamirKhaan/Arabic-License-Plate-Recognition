@@ -12,4 +12,10 @@ Detecting the ROI (Region of Intrest)
 
 Isolating and Extracting the Number Plate
 
-![Number Plate](https://github.com/AamirKhaan/Arabic-License-Plate-Recognition/blob/main/codes/workspace/images/plates/P_60.jpg)
+![Number Plate](https://github.com/AamirKhaan/Arabic-License-Plate-Recognition/blob/main/codes/workspace/images/plates/pcar_364.jpg)
+
+## 2. OCR in English
+
+Number Plate English Text Recognintion
+
+![Number Plate Text](https://github.com/AamirKhaan/Arabic-License-Plate-Recognition/tree/main/codes/workspace/images/results_EN)
