@@ -18,4 +18,4 @@ Isolating and Extracting the Number Plate
 
 Number Plate English Text Recognintion
 
-![Number Plate Text](https://github.com/AamirKhaan/Arabic-License-Plate-Recognition/tree/main/codes/workspace/images/results_EN/result_png)
+![Number Plate Text](https://github.com/AamirKhaan/Arabic-License-Plate-Recognition/tree/main/codes/workspace/images/results_EN/result.png)
