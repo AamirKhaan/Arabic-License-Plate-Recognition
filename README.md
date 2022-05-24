@@ -19,3 +19,9 @@ Isolating and Extracting the Number Plate
 Number Plate English Text Recognintion
 
 ![Number Plate Text](https://github.com/AamirKhaan/Arabic-License-Plate-Recognition/blob/main/codes/workspace/images/results_EN/result.png)
+
+## 3. OCR in Arabic
+
+Number Plate Arabic Text Recognintion
+
+![Number Plate Text](https://github.com/AamirKhaan/Arabic-License-Plate-Recognition/blob/main/codes/workspace/images/results_EN/resulta.png)
